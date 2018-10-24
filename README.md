@@ -8,7 +8,7 @@ Download the directory and open the index.html file to start the application.
 
 ### Elements Learned
 
-* [DOM Manipulation & Events](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
+* [DOM Manipulation & Events]
 * [Maven](https://maven.apache.org/) - Dependency Management
 * [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
