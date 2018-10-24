@@ -26,6 +26,7 @@ class UI {
                          <br><br>
                          <ul class="list-group"></ul>
                          <li class="list-group-item"><b>Company:</b> ${user.company}</li>
+                         <li class="list-group-item"><b>Company:</b> ${user.company}</li>
                          <li class="list-group-item"><b>Website/Blog:</b> ${user.blog}</li>
                          <li class="list-group-item"><b>Location:</b> ${user.location}</li>
                          <li class="list-group-item"><b>Member Since:</b> ${user.created_at}</li>
