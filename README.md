@@ -18,3 +18,7 @@ Download the directory and open the index.html file to start the application.
 * Fetch API
 * Arrow functions
 * Template literal/strings
+
+### Result
+
+![](github_finder.gif)
