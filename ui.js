@@ -11,10 +11,10 @@ class UI {
     showProfile(user) {
 
         this.profile.innerHTML = `
-         <div class="card card-board mb-3">
+         <div class="card card-board mb-3" style="padding:30px">
              <div class="row">
                  <div class="col-md-3">
-                     <img src="${user.avatar_url}" alt="" class="img-fluid mb-2">
+                     <img src="${user.avatar_url}" alt="" style="max-width:200px" class="img-fluid mb-2">
                       <a href="${user.html_url}" target="blank" class="btn btn-primary btn-block">View Profile</a>
                  </div>
                  <div class="col-md-9">
